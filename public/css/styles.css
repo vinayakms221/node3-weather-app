@@ -4,7 +4,7 @@ body {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
-    background: url('https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/assets/images/k3noRD/dotPattern2.png');
+    /* background: url('https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/assets/images/k3noRD/dotPattern2.png'); */
     background-repeat: repeat;
 
     display: flex;
