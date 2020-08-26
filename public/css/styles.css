@@ -1,0 +1,108 @@
+body {
+    color: #333333;
+    font-family: arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+    background: url('https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/assets/images/k3noRD/dotPattern2.png');
+    background-repeat: repeat;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+
+.head {
+    width: inherit;
+    margin-top: 100px;
+   
+}
+
+footer {
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+.main-content {
+    flex-grow: 1;
+    /* flexbox */
+   
+
+}
+
+header {
+    /* margin-top: 16px;
+    margin-bottom: 48px;
+    margin-top: 20px;
+    width: inherit;
+    padding: 5 5 5 5;
+    background-color: rgba(65, 63, 63, 0.411);
+    border-radius: 1em; */
+    margin-top: 16px;
+    margin-bottom: 48px;
+    margin-top: 20px;
+    width: inherit;
+    padding: 5 5 5 5;
+    background-color: rgba(65, 63, 63, 0.411);
+    border-radius: 1em;
+    height: 100px;
+    z-index: 2;
+
+
+}
+
+h1 {
+    padding-left: 25px;
+    padding-top: 10px;
+    font-size: 64px;
+    margin-bottom: 16px;
+}
+
+header a {
+    color: #888888;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
+.portrait {
+    width:200px;
+    height: 200px;
+}
+
+input {
+    border: 1px solid #cccccc;
+    padding: 8px;
+    border-radius: 1em;
+    
+}
+form {
+    
+    border-radius: 1em;
+
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 8px;
+    border-radius: 1em;
+}
+
+/* . {
+    background: url('https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/assets/images/k3noRD/dotPattern2.png');
+    background-repeat: repeat
+  } */
+
+  .content {
+    background: #e2e2e2;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 1em;
+    
+  }
